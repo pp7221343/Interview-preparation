@@ -21,8 +21,6 @@
 
 # 2021-3-13
 
-* 2
+* [synchronized和lock的区别](https://github.com/pp7221343/Interview-preparation/blob/main/java%E5%9F%BA%E7%A1%80/synchronized%E5%92%8Clock%E5%8C%BA%E5%88%AB.md)
 
-# 2021-3-12
 
-* 3
