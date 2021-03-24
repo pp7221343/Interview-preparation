@@ -1,7 +1,7 @@
 # Interview-preparation
 # 2021-3-24
 * [mysql limit优化](https://github.com/pp7221343/Interview-preparation/blob/main/database/2021-3-24-%E4%BC%98%E5%8C%96limit.md)
-* [索引覆盖和索引下推]()
+* [索引覆盖和索引下推](https://github.com/pp7221343/Interview-preparation/blob/main/database/2021-3-24-%E7%B4%A2%E5%BC%95%E8%A6%86%E7%9B%96%E5%92%8C%E4%B8%8B%E6%8E%A8.md)
 
 # 2021-3-23
 * [redis持久化](https://github.com/pp7221343/Interview-preparation/blob/main/redis/2021-3-23-redis%E6%8C%81%E4%B9%85%E5%8C%96.md)
