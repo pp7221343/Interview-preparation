@@ -1,5 +1,11 @@
 # Interview-preparation
+# 2021-3-24
+* [mysql limit优化]()
+* [索引覆盖和索引下推]()
 
+# 2021-3-23
+* [redis持久化](https://github.com/pp7221343/Interview-preparation/blob/main/redis/2021-3-23-redis%E6%8C%81%E4%B9%85%E5%8C%96.md)
+* 
 # 2021-3-22
 * [redis底层结构](https://github.com/pp7221343/Interview-preparation/blob/main/redis/2021-3-22-redis%E5%BA%95%E5%B1%82%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 
