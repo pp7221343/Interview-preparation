@@ -1,7 +1,7 @@
 # Interview-preparation
 
 # 2021-3-25
-* []()
+* [redis缓存穿透，击穿，雪崩](https://github.com/pp7221343/Interview-preparation/blob/main/redis/2021-3-25%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%EF%BC%8C%E9%9B%AA%E5%B4%A9%EF%BC%8C%E5%87%BB%E7%A9%BF.md)
 
 # 2021-3-24
 * [mysql limit优化](https://github.com/pp7221343/Interview-preparation/blob/main/database/2021-3-24-%E4%BC%98%E5%8C%96limit.md)
