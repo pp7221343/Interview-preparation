@@ -1,5 +1,8 @@
 # Interview-preparation
 
+# 2021-3-26
+* [redis哨兵机制](https://github.com/pp7221343/Interview-preparation/blob/main/redis/2021-3-26-redis%20%E5%93%A8%E5%85%B5%E6%9C%BA%E5%88%B6.md)
+
 # 2021-3-25
 * [redis缓存穿透，击穿，雪崩](https://github.com/pp7221343/Interview-preparation/blob/main/redis/2021-3-25%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%EF%BC%8C%E9%9B%AA%E5%B4%A9%EF%BC%8C%E5%87%BB%E7%A9%BF.md)
 
