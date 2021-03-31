@@ -1,7 +1,7 @@
 # Interview-preparation
 
 # 2021-3-29
-* []()
+* [GC算法详解](https://github.com/pp7221343/Interview-preparation/blob/main/java%E5%9F%BA%E7%A1%80/2021-3-29-gc%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.md)
 
 # 2021-3-28
 * [索引](https://github.com/pp7221343/Interview-preparation/blob/main/database/2021-3-28mysql%E7%B4%A2%E5%BC%95.md)
