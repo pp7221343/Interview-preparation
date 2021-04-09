@@ -1,5 +1,8 @@
 # Interview-preparation
 
+# 2021-4-1
+*[乐观锁与悲观锁](https://github.com/pp7221343/Interview-preparation/blob/main/database/2021-4-1-%E4%B9%90%E8%A7%82%E9%94%81%E4%B8%8E%E6%82%B2%E8%A7%82%E9%94%81.md)
+
 # 2021-3-31
 * [sql什么时候分库分表](https://github.com/pp7221343/Interview-preparation/blob/main/database/2021-3-31-%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%BF%9B%E8%A1%8C%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8.md)
 
