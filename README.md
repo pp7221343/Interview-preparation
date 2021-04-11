@@ -1,5 +1,8 @@
 # Interview-preparation
 
+# 2021-4-2
+* [操作系统中断和缺页中断](https://github.com/pp7221343/Interview-preparation/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/2021-4-2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%BC%BA%E9%A1%B5%E4%B8%AD%E6%96%AD.md)
+
 # 2021-4-1
 *[乐观锁与悲观锁](https://github.com/pp7221343/Interview-preparation/blob/main/database/2021-4-1-%E4%B9%90%E8%A7%82%E9%94%81%E4%B8%8E%E6%82%B2%E8%A7%82%E9%94%81.md)
 
