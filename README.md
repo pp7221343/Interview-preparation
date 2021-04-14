@@ -1,7 +1,7 @@
 # Interview-preparation
 
 # 2021-4-4
-* [linux进程状态]()
+* [linux进程状态](https://github.com/pp7221343/Interview-preparation/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/linux%E8%BF%9B%E7%A8%8B%E7%8A%B6%E6%80%81.md)
 
 # 2021-4-3
 * [linux用户态和内核态区别](https://github.com/pp7221343/Interview-preparation/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%94%A8%E6%88%B7%E6%80%81%E5%92%8C%E5%86%85%E6%A0%B8%E6%80%81%E5%8C%BA%E5%88%AB%E4%BB%A5%E5%8F%8A%E5%88%87%E6%8D%A2%E6%97%B6%E6%9C%BA.md)
