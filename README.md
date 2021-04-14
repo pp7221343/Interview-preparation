@@ -1,5 +1,8 @@
 # Interview-preparation
 
+# 2021-4-5
+* [http1.0,1.1,2.0区别]()
+
 # 2021-4-4
 * [linux进程状态](https://github.com/pp7221343/Interview-preparation/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/linux%E8%BF%9B%E7%A8%8B%E7%8A%B6%E6%80%81.md)
 
