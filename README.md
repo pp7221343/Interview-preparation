@@ -1,5 +1,8 @@
 # Interview-preparation
 
+# 2021-4-7
+* [java线程状态](https://github.com/pp7221343/Interview-preparation/blob/main/java%E5%9F%BA%E7%A1%80/java%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81.md)
+
 # 2021-4-6
 * [从输入 URL 到展现页面的全过程](https://github.com/pp7221343/Interview-preparation/blob/main/%E7%BD%91%E7%BB%9C/%E4%BB%8E%E8%BE%93%E5%85%A5%20URL%20%E5%88%B0%E5%B1%95%E7%8E%B0%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B.md)
 * [DNS以及DNS劫持](https://github.com/pp7221343/Interview-preparation/blob/main/%E7%BD%91%E7%BB%9C/DNS%E4%BB%A5%E5%8F%8ADNS%E5%8A%AB%E6%8C%81.md)
