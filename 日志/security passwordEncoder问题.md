@@ -1,7 +1,7 @@
 # 单独使用security 的passwordEncoder加密问题
 
 引入包
-`java
+```java
 <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-crypto</artifactId>
@@ -12,10 +12,10 @@
             <artifactId>bcprov-jdk15on</artifactId>
             <version>1.64</version>
         </dependency>
-`java
+```
 
 注册到容器中
-`java
+```java
 
 
 @Configuration
@@ -25,9 +25,9 @@ public class PasswordEncoderConfig {
         return new Argon2PasswordEncoder();
     }
 }
-`java
+```
 
 使用
-`java
+```java
  passwordEncoder.matches(password,miningUser.getCashPassword());
-`java
+```
