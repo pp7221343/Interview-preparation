@@ -25,5 +25,6 @@
 * 在JDK1.6中采用的是头插法
 
 # 描述头插法造成死循环的情况
+* https://www.cnblogs.com/3w9898/p/15073993.html
 
 # 描述hashmap多线程造成死锁的情况
